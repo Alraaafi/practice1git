@@ -1,0 +1,50 @@
+h2{
+    color: rgb(105, 255, 5);
+    font-size: 50px;
+    background-color: rgb(0, 0, 0); 
+    height: 100px;       
+    width: 60%;
+    font-family: monospace;
+    text-align: center;
+}
+img{
+    width: 100%;
+}
+#rafi{
+    color: palevioletred;
+    text-align: center;
+}
+#rafidev{
+    color: purple;
+    text-align: center;
+}
+.cd{
+    text-align: center
+}
+p.cd{
+    font-size: 30px;
+    font-family: impact;
+    color: red;
+}
+.valo{
+    border: 5PX solid rgb(0, 0, 0);
+}
+.sm{
+    font-family: fantasy;
+    color: rgb(255, 72, 39);
+}
+.cnt{
+    border: 3px solid violet;
+    margin: 10px 15px 10px 15px;
+    padding:10px 25px 10px 25px;
+    width: 25%;
+    display: inline-block;
+    border-radius: 10px;
+    
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
